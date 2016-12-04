@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "rgb(222,105,140)",
+    "navigationBarTitleText": "哔哩哔哩弹幕视频网",
+    "navigationBarTextStyle": "light",
+    "backgroundColor": "#f4f4f4"
+  },
+  "debug": true
+}
